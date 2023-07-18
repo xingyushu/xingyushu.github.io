@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fundings | Mengya Zhang</title>
+    <link>https://example.com/funding/</link>
+      <atom:link href="https://example.com/funding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fundings</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Fundings</title>
+      <link>https://example.com/funding/</link>
+    </image>
+    
+    <item>
+      <title>Understanding Cross-Chain Bridges: Characteristics and Security Implications</title>
+      <link>https://example.com/funding/funding3/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/funding/funding3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the Security Landscape of Proxy-based Smart Contract Upgrades Through the Lens of Transactions</title>
+      <link>https://example.com/funding/funding2/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/funding/funding2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmenting Forta with Bytecode-level Information for Broader, More Precise and Automated Attack Detection</title>
+      <link>https://example.com/funding/funding1/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/funding/funding1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
